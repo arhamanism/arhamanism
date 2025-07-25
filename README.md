@@ -5,18 +5,6 @@
 
 <h1 align="center">✨ Your Project / Profile Name ✨</h1>
 
-<p align="center">
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-Visit-4E9F3D?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
