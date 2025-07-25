@@ -70,8 +70,7 @@ Let’s connect and build something meaningful together! 🤝
 
 ## 📌 Featured Projects
 
-- 🎯 [**Project Name**](https://github.com/yourusername/project): A one-line description of what this project does.
-- ⚡ [**Another Project**](https://github.com/yourusername/project): A concise description with key tech used or its purpose.
+<table> <tr> <td align="center"> <a href="https://github.com/arhamanism/Tenzies-Game"> <img src="https://user-images.githubusercontent.com/85493886/278965385-1e9b1e9b-bd7a-4ac2-bc87-0167f9098c8c.png" alt="Tenzies Game" width="240" height="auto"/> <br /><strong>Tenzies Game</strong> </a> <br />A short, fun project with React. <br /><br /> <a href="https://github.com/arhamanism/Tenzies-Game"> <img src="https://img.shields.io/badge/View%20Code-0A66C2?style=for-the-badge&logo=github&logoColor=white" /> </a> <br /><br /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Updated-4%20days%20ago-brightgreen?style=flat-square" /> </td> <td align="center"> <a href="https://github.com/arhamanism/API-code"> <img src="https://user-images.githubusercontent.com/85493886/278965404-45280b85-0d17-499e-9409-e82ad0890062.png" alt="API Code" width="240" height="auto"/> <br /><strong>API-code</strong> </a> <br />TypeScript API utilities and experiments. <br /><br /> <a href="https://github.com/arhamanism/API-code"> <img src="https://img.shields.io/badge/View%20Code-0A66C2?style=for-the-badge&logo=github&logoColor=white" /> </a> <br /><br /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Updated-June%2023-blue?style=flat-square" /> </td> </tr> </table>
 
 ---
 
