@@ -40,8 +40,6 @@ Let’s connect and build something meaningful together! 🤝
 
 ## 🛠️ Programming Skills
 
-## 🛠️ Skills
-
 ### 📝 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
