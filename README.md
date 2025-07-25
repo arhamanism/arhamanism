@@ -1,14 +1,13 @@
 <!-- HEADER WITH WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Your%20tagline%20or%20mission%20here&descAlignY=60&descAlign=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="header" />
 </p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arham;Student+%7C+Developer;Web+Dev+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arham;Student+%7C+Developer;Web+Dev+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-<h1 align="center">✨ Your Project / Profile Name ✨</h1>
 
 ---
 
@@ -79,14 +78,8 @@ Let’s connect and build something meaningful together! 🤝
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/arham-ali-99a7b8285">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
