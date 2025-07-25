@@ -20,14 +20,16 @@
 ---
 
 ## 🚀 About Me
-Hi! 👋 I’m Arham, a builder passionate about turning ideas into reality through technology. 🚀
+Hi! 👋 I’m Arham, a Coder passionate about turning ideas into reality through technology. 🚀
 
 I see tech as more than code—it’s a way to create, solve problems, and make an impact. I love building intelligent systems, exploring machine learning, and bringing projects to life with clean, purposeful code. 🌌
 
 What drives me:
 
 🔍 Always Learning: Every challenge is a chance to grow.
+
 🌿 Creator at Heart: From scalable backends to ML models, I love building things that matter.
+
 ⚡ Problem Solver: I see every problem as a puzzle worth solving.
 
 📖 "Start where you are. Use what you have. Do what you can."
