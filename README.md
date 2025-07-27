@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-Hi! 👋 I’m Arham, a Coder passionate about turning ideas into reality through technology. 🚀
+Hi! 👋 I’m Arham, a passionate coder from FAST NUCES Karachi.
 
 I see tech as more than code—it’s a way to create, solve problems, and make an impact. I love building intelligent systems, exploring machine learning, and bringing projects to life with clean, purposeful code. 🌌
 
@@ -58,6 +58,7 @@ Let’s connect and build something meaningful together! 🤝
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
